@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183365822667",
+    "project_id": "appunity-6d364",
+    "storage_bucket": "appunity-6d364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183365822667:android:6d1bcfe95151a2d03ad34e",
+        "android_client_info": {
+          "package_name": "com.company.jleitecam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3eZ5qS518zt3lM756rTTbAU9NmHLhpBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
